@@ -219,15 +219,15 @@ This project helped me understand:
 
 ### MiniOS Boot
 
-![MiniOS Boot](docs/MiniOS_Screenshots/MiniOS_Screenshots/boot.png)
+![MiniOS Boot](https://github.com/ramuverma22/MiniOS/raw/refs/heads/main/docs/MiniOS_Screenshots/boot.png)
 
 ### Shell Commands
 
-![Shell Commands](docs/MiniOS_Screenshots/MiniOS_Screenshots/shell-commands.png)
+![Shell Commands](https://github.com/ramuverma22/MiniOS/raw/refs/heads/main/docs/MiniOS_Screenshots/shell-commands.png)
 
 ### System Information
 
-![System Information](docs/MiniOS_Screenshots/MiniOS_Screenshots/shell-info.png)
+![System Information](https://github.com/ramuverma22/MiniOS/raw/refs/heads/main/docs/MiniOS_Screenshots/shell-info.png)
 
 ## Author
 
