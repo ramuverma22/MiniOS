@@ -215,6 +215,20 @@ This project helped me understand:
 - Additional device drivers
 - Improved shell
 
+## Screenshots
+
+### MiniOS Boot
+
+![MiniOS Boot](docs/MiniOS_Screenshots/MiniOS_Screenshots/boot.png)
+
+### Shell Commands
+
+![Shell Commands](docs/MiniOS_Screenshots/MiniOS_Screenshots/shell-commands.png)
+
+### System Information
+
+![System Information](docs/MiniOS_Screenshots/MiniOS_Screenshots/shell-info.png)
+
 ## Author
 
 Ramu Verma
